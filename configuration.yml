@@ -1,0 +1,7 @@
+port: 8080
+db_config: 
+  port: 5432
+  user: postgres
+  password: password
+  db: newsletter
+  host: 127.0.0.1
